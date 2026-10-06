@@ -1,3 +1,0 @@
-📁 yurasnacks-cotizador/
-├── index.html        (Aquí va todo el código que creamos antes)
-└── README.md         (El manual del proyecto)
